@@ -9,7 +9,7 @@ Mid-term-project repository를 submodule로 연결시켜 작업하였습니다.
 ### 소개
 <b>안녕하세요. 단국대학교 산업보안학과 민예원입니다.</b>  
 
-![python](/mid-term-project/python.png)
+![python](/Mid-Term-Project/python.png)
 저는 Python이 주무기이며  
 C, C#, Unity 활용 능력을 갖추고 있습니다.
 Data Science, Game Developing, Game Security 분야에 관심이 있습니다.  
