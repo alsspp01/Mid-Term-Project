@@ -19,7 +19,7 @@ Data Science, Game Developing, Game Security 분야에 관심이 있습니다.
 단국대학교 내 프로젝트로는 SIAM-W 제작을 진행중이며 Data Handling, GUI 제작 등을 맡고 있습니다.  
 
 ### Personal
-고양이 털 알레르기가 있지만 고양이를 좋아합니다.
+고양이 털 알레르기가 있지만 고양이를 좋아합니다.  
 <img src="/mid-term-project/cat.png" width="300" height="300"/>
 
 좋아하는 노래는 아래 영상을 봐주세요
